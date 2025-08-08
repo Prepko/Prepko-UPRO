@@ -13,6 +13,6 @@ Upute za skidanje CLion IDE-a možete pronaći [ovdje](clion-upute.md).
 - [CLion IDE](https://www.jetbrains.com/clion/)
 - [CLion upute](clion-upute.md)
 - [UPRO - FER link](https://www.fer.unizg.hr/predmet/uup_a)
-- [Edgar](https://edgar.fer.hr/)]()
+- [Edgar](https://edgar.fer.hr/)
 
 Snimio [Borna Krpan](https://github.com/xikodev)
