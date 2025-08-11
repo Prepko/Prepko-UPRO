@@ -130,7 +130,7 @@ int main() {
 }
 ```
 
-[Rješenje](1.c)
+[Rješenje zadatka](1.c)
 
 ## 2. Zadatak
 
@@ -240,7 +240,7 @@ int main () {
 }
 ```
 
-[Rješenje](2.c)
+[Rješenje zadatka](2.c)
 
 ## 3. Zadatak
 
@@ -321,7 +321,7 @@ int main() {
 }
 ```
 
-[Rješenje](3.c)
+[Rješenje zadatka](3.c)
 
 ## 4. Zadatak
 
@@ -381,4 +381,4 @@ int main(void) {
 }
 ```
 
-[Rješenje](4.c)
+[Rješenje zadatka](4.c)

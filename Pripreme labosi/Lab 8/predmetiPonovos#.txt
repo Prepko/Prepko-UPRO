@@ -1,0 +1,100 @@
+24#Mira Dragobratovic#20#Digitalna forenzika#10
+22#Dalibor Vranic#4#Operacijski sustavi#8
+1#Vlado Orbanic#9#Strojno ucenje#4
+9#Anita Stefovic#27#Mikroupravljaci#4
+5#Sara Derezic#1#Osnove programiranja#9
+12#Eva Usic#40#Digitalni signali i sustavi#8
+10#Roko Halapir#25#Upravljanje projektima#7
+7#Anđela Grguric#15#Racunalna grafika#7
+18#Ivana Srsen#34#Racunalni vid#5
+5#Sara Derezic#33#E-uciteljstvo#6
+8#Katarina Panduric#19#Virtualizacija sustava#9
+17#Jelena Husnjak#49#Etika u racunarstvu#5
+20#Mira Terlevic#40#Digitalni signali i sustavi#3
+11#Sandra Nisevic#49#Etika u racunarstvu#2
+22#Dalibor Vranic#20#Digitalna forenzika#5
+7#Anđela Grguric#6#Racunalne mreze#8
+17#Jelena Husnjak#41#Matematicka logika#1
+5#Sara Derezic#18#Cloud racunarstvo#2
+7#Anđela Grguric#26#Automatizacija sustava#9
+20#Mira Terlevic#37#Sigurnosne prijetnje u racunarstvu#4
+5#Sara Derezic#18#Cloud racunarstvo#1
+13#Biserka Liber#11#Analiza podataka#4
+11#Sandra Nisevic#29#Analitika drustvenih mreza#10
+2#Stefica Jozic#49#Etika u racunarstvu#7
+24#Mira Dragobratovic#36#Napredno web programiranje#2
+8#Katarina Panduric#38#Racunarska arhitektura#4
+16#Zdenka Prskalo#50#Teorija igara#2
+13#Biserka Liber#29#Analitika drustvenih mreza#2
+20#Mira Terlevic#26#Automatizacija sustava#10
+14#Vera Stancin#5#Umjetna inteligencija#2
+20#Mira Terlevic#41#Matematicka logika#2
+18#Ivana Srsen#38#Racunarska arhitektura#1
+2#Stefica Jozic#40#Digitalni signali i sustavi#4
+1#Vlado Orbanic#46#Vizualizacija podataka#9
+21#Fran Antonic#25#Upravljanje projektima#6
+2#Stefica Jozic#33#E-uciteljstvo#8
+5#Sara Derezic#33#E-uciteljstvo#1
+22#Dalibor Vranic#42#Razvoj open source projekata#3
+9#Anita Stefovic#17#Kriptografija#3
+1#Vlado Orbanic#27#Mikroupravljaci#10
+10#Roko Halapir#26#Automatizacija sustava#9
+12#Eva Usic#44#E-trgovina#2
+7#Anđela Grguric#35#Programiranje u Pythonu#7
+20#Mira Terlevic#28#Big Data#3
+4#Matija Bozic#17#Kriptografija#4
+2#Stefica Jozic#9#Strojno ucenje#8
+23#Bruno Baricevic#2#Algoritmi i strukture podataka#4
+18#Ivana Srsen#5#Umjetna inteligencija#7
+16#Zdenka Prskalo#14#Distribuirani sustavi#8
+18#Ivana Srsen#41#Matematicka logika#3
+17#Jelena Husnjak#21#Razvoj igara#9
+24#Mira Dragobratovic#37#Sigurnosne prijetnje u racunarstvu#8
+16#Zdenka Prskalo#41#Matematicka logika#2
+4#Matija Bozic#19#Virtualizacija sustava#9
+2#Stefica Jozic#24#Robotika#5
+14#Vera Stancin#18#Cloud racunarstvo#7
+19#Jelena Cafuk#31#Razvoj ugrađenih sustava#10
+15#Nada Vukusic#50#Teorija igara#2
+18#Ivana Srsen#10#Web programiranje#8
+9#Anita Stefovic#26#Automatizacija sustava#5
+2#Stefica Jozic#36#Napredno web programiranje#10
+3#Josip Zrilic#42#Razvoj open source projekata#4
+19#Jelena Cafuk#49#Etika u racunarstvu#10
+18#Ivana Srsen#44#E-trgovina#8
+9#Anita Stefovic#38#Racunarska arhitektura#6
+19#Jelena Cafuk#6#Racunalne mreze#6
+12#Eva Usic#45#Bioinformatika#10
+2#Stefica Jozic#41#Matematicka logika#9
+21#Fran Antonic#40#Digitalni signali i sustavi#7
+7#Anđela Grguric#31#Razvoj ugrađenih sustava#10
+11#Sandra Nisevic#25#Upravljanje projektima#7
+23#Bruno Baricevic#15#Racunalna grafika#9
+10#Roko Halapir#42#Razvoj open source projekata#8
+16#Zdenka Prskalo#49#Etika u racunarstvu#6
+1#Vlado Orbanic#14#Distribuirani sustavi#9
+9#Anita Stefovic#20#Digitalna forenzika#6
+6#Jasna Pamic#19#Virtualizacija sustava#10
+6#Jasna Pamic#5#Umjetna inteligencija#3
+12#Eva Usic#7#Sigurnost informacija#4
+9#Anita Stefovic#49#Etika u racunarstvu#9
+23#Bruno Baricevic#16#Interakcija covjeka i racunala#4
+19#Jelena Cafuk#49#Etika u racunarstvu#5
+11#Sandra Nisevic#35#Programiranje u Pythonu#3
+23#Bruno Baricevic#2#Algoritmi i strukture podataka#5
+16#Zdenka Prskalo#3#Baze podataka#6
+16#Zdenka Prskalo#14#Distribuirani sustavi#9
+24#Mira Dragobratovic#29#Analitika drustvenih mreza#1
+18#Ivana Srsen#2#Algoritmi i strukture podataka#10
+17#Jelena Husnjak#14#Distribuirani sustavi#6
+12#Eva Usic#47#Odrzivi razvoj i IT#3
+6#Jasna Pamic#20#Digitalna forenzika#5
+20#Mira Terlevic#16#Interakcija covjeka i racunala#3
+2#Stefica Jozic#29#Analitika drustvenih mreza#3
+2#Stefica Jozic#28#Big Data#9
+11#Sandra Nisevic#41#Matematicka logika#1
+2#Stefica Jozic#14#Distribuirani sustavi#4
+19#Jelena Cafuk#34#Racunalni vid#2
+18#Ivana Srsen#24#Robotika#5
+24#Mira Dragobratovic#16#Interakcija covjeka i racunala#10
+20#Mira Terlevic#32#Simulacija i modeliranje#9

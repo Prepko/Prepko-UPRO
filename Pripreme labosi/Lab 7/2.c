@@ -12,7 +12,8 @@ struct portfelj_s {
     int kolicina;
 };
 
-float IzracunajVrijednostPortfelja(struct dionica_s *dionice, int broj_dionica, struct portfelj_s *moj_portfelj, int broj_dionica_u_mom_portfelju) {
+float IzracunajVrijednostPortfelja(struct dionica_s *dionice, int broj_dionica, struct portfelj_s *moj_portfelj,
+                                   int broj_dionica_u_mom_portfelju) {
     float ukupno = 0;
     for (int i = 0; i < broj_dionica_u_mom_portfelju; i++) {
         for (int j = 0; j < broj_dionica; j++) {

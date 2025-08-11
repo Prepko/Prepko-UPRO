@@ -7,7 +7,7 @@ struct pravokutnik {
 
 extern struct pravokutnik rjesenje;
 
-void nadiNajveciOpseg(int n, struct pravokutnik* pravokutnici) {
+void nadiNajveciOpseg(int n, struct pravokutnik *pravokutnici) {
     int max_opseg = 0;
     for (int i = 0; i < n; i++) {
         int sirina = pravokutnici[i].x1 - pravokutnici[i].x2;

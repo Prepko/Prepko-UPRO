@@ -5,7 +5,7 @@
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](1.c)
+[Rješenje zadatka](1.c)
 
 ## 2. Zadatak
 
@@ -14,7 +14,7 @@ Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](2.c)
+[Rješenje zadatka](2.c)
 
 ## 3. Zadatak
 
@@ -23,7 +23,7 @@ Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](3.c)
+[Rješenje zadatka](3.c)
 
 ## 4. Zadatak
 
@@ -32,7 +32,7 @@ Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](4.c)
+[Rješenje zadatka](4.c)
 
 ## 5. Zadatak
 
@@ -41,7 +41,7 @@ Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](5.c)
+[Rješenje zadatka](5.c)
 
 ## 6. Zadatak
 
@@ -50,7 +50,7 @@ Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](6.c)
+[Rješenje zadatka](6.c)
 
 ## 7. Zadatak
 
@@ -59,4 +59,4 @@ Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](7.c)
+[Rješenje zadatka](7.c)

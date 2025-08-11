@@ -11,7 +11,7 @@ int main() {
         printf("Prvi broj mora biti manji od drugog broja.");
     } else {
         int suma = 0;
-        for (int i = a+2; i <= b; i += 3) {
+        for (int i = a + 2; i <= b; i += 3) {
             suma += i;
         }
         printf("Zbroj svakog treceg broja iznosi: %d", suma);

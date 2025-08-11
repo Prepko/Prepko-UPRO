@@ -10,9 +10,12 @@ int main() {
     int cifra3 = broj3 % 10;
     int parna = 0, neparna = 0;
 
-    if (cifra1 % 2 == 0) parna += cifra1; else neparna += cifra1;
-    if (cifra2 % 2 == 0) parna += cifra2; else neparna += cifra2;
-    if (cifra3 % 2 == 0) parna += cifra3; else neparna += cifra3;
+    if (cifra1 % 2 == 0) parna += cifra1;
+    else neparna += cifra1;
+    if (cifra2 % 2 == 0) parna += cifra2;
+    else neparna += cifra2;
+    if (cifra3 % 2 == 0) parna += cifra3;
+    else neparna += cifra3;
 
     printf("Rezultat: %d\n", parna - neparna);
     return 0;

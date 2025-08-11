@@ -29,7 +29,7 @@ Indeks·najznacajnijeg·bita·s·vrijednosti·1:·9
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](1.c)
+[Rješenje zadatka](1.c)
 
 ## 2. Zadatak
 
@@ -62,7 +62,7 @@ Indeks·najmanje·znacajnog·bita·s·vrijednosti·0:·3
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](2.c)
+[Rješenje zadatka](2.c)
 
 ## 3. Zadatak
 
@@ -87,7 +87,7 @@ Hammingova·udaljenost:·4
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](3.c)
+[Rješenje zadatka](3.c)
 
 ## 4. Zadatak
 
@@ -145,7 +145,7 @@ Dekadski·i·binarni·zapis·izmijenjenog·broja:·2000·0000011111010000
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](4.c)
+[Rješenje zadatka](4.c)
 
 ## 5. Zadatak
 
@@ -174,7 +174,7 @@ Razlika:·0.000000000000
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](5.c)
+[Rješenje zadatka](5.c)
 
 ## 6. Zadatak
 
@@ -201,7 +201,7 @@ Apsolutna·vrijednost·razlike·mediana·i·srednje·vrijednosti·je:·6.433
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](6.c)
+[Rješenje zadatka](6.c)
 
 ## 7. Zadatak
 
@@ -232,7 +232,7 @@ Reduciran:·2
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](7.c)
+[Rješenje zadatka](7.c)
 
 ## 8. Zadatak
 
@@ -265,4 +265,4 @@ Suma·znamenaka·od·2!·nije·savrsen·kvadrat.
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](8.c)
+[Rješenje zadatka](8.c)

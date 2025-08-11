@@ -16,7 +16,7 @@ Apsolutna·razlika·suma·je·2↵
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](1.c)
+[Rješenje zadatka](1.c)
 
 ## 2. Zadatak
 
@@ -49,7 +49,7 @@ Kovanice:↵
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](2.c)
+[Rješenje zadatka](2.c)
 
 ## 3. Zadatak
 
@@ -76,7 +76,7 @@ Rezultat:·18↵
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](3.c)
+[Rješenje zadatka](3.c)
 
 ## 4. Zadatak
 
@@ -99,7 +99,7 @@ Unos·odgovara·razdoblju·od·0·godina·3·tjedana·i·3·dana↵
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](4.c)
+[Rješenje zadatka](4.c)
 
 ## 5. Zadatak
 
@@ -145,7 +145,7 @@ Broj·nije·djeljiv·s·brojevima·2,·3,·5,·7.
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](5.c)
+[Rješenje zadatka](5.c)
 
 ## 6. Zadatak
 
@@ -182,7 +182,7 @@ KRIVI·UNOS
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](6.c)
+[Rješenje zadatka](6.c)
 
 ## 7. Zadatak
 
@@ -216,7 +216,7 @@ KRIVI·UNOS
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](7.c)
+[Rješenje zadatka](7.c)
 
 ## 8. Zadatak
 
@@ -261,7 +261,7 @@ Unesite·broj·>·9↵
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](8.c)
+[Rješenje zadatka](8.c)
 
 ## 9. Zadatak
 
@@ -306,5 +306,5 @@ Prvi·broj·mora·biti·manji·od·drugog·broja.
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](9.c)
+[Rješenje zadatka](9.c)
 

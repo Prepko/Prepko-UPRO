@@ -48,7 +48,7 @@ Važna napomena: Kao rješenje zadatka predaje se samo implementirana funkcija k
 na standardni izlaz ili unos sa standardnog ulaza. Funkcija `main` i zaglavlja se ne predaju. Za razliku od ove
 pripreme, na stvarnoj laboratorijskoj vježbi nećete dobiti funkciju `main`.
 
-[Rješenje](1.c)
+[Rješenje zadatka](1.c)
 
 ## 2. Zadatak
 
@@ -82,7 +82,7 @@ Rezultat:·priimjeer123
 Važna napomena: Kao rješenje zadatka predaje se samo implementirana funkcija koja ne smije sadržavati naredbe za ispis
 na standardni izlaz ili unos sa standardnog ulaza. Funkcija `main` i zaglavlja se ne predaju.
 
-[Rješenje](2.c)
+[Rješenje zadatka](2.c)
 
 ## 3. Zadatak
 
@@ -147,7 +147,7 @@ Važna napomena: Kao rješenje zadatka predaju se samo implementirane funkcije k
 na standardni izlaz ili unos sa standardnog ulaza. Funkcija `main` i zaglavlja se ne predaju. Za razliku od ove
 pripreme, na stvarnoj laboratorijskoj vježbi nećete dobiti funkciju `main`.
 
-[Rješenje](3.c)
+[Rješenje zadatka](3.c)
 
 ## 4. Zadatak
 
@@ -199,7 +199,7 @@ Rezultat·funkcije·podijeli:↵
 Važna napomena: Kao rješenje zadatka predaju se samo implementirane funkcije koje ne smiju sadržavati naredbe za ispis
 na standardni izlaz ili unos sa standardnog ulaza. Funkcija `main` i zaglavlja se ne predaju.
 
-[Rješenje](4.c)
+[Rješenje zadatka](4.c)
 
 ## 5. Zadatak
 
@@ -265,7 +265,7 @@ Važna napomena: Kao rješenje zadatka predaju se samo implementirane funkcije k
 na standardni izlaz ili unos sa standardnog ulaza. Funkcija `main` i zaglavlja se ne predaju. Za razliku od ove
 pripreme, na stvarnoj laboratorijskoj vježbi nećete dobiti funkciju `main`.
 
-[Rješenje](5.c)
+[Rješenje zadatka](5.c)
 
 ## 6. Zadatak
 
@@ -310,7 +310,7 @@ Važna napomena: Kao rješenje zadatka predaju se samo implementirane funkcije k
 na standardni izlaz ili unos sa standardnog ulaza. Funkcija `main` i zaglavlja se ne predaju. Za razliku od ove
 pripreme, na stvarnoj laboratorijskoj vježbi nećete dobiti funkciju `main`.
 
-[Rješenje](6.c)
+[Rješenje zadatka](6.c)
 
 ## 7. Zadatak
 
@@ -383,7 +383,7 @@ Važna napomena: Kao rješenje zadatka predaju se samo implementirane funkcije k
 na standardni izlaz ili unos sa standardnog ulaza. Funkcija `main` i zaglavlja se ne predaju. Za razliku od ove
 pripreme, na stvarnoj laboratorijskoj vježbi nećete dobiti funkciju `main`.
 
-[Rješenje](7.c)
+[Rješenje zadatka](7.c)
 
 ## 8. Zadatak
 
@@ -430,4 +430,4 @@ Broj·pojavljivanja·>·1↵
 Važna napomena: Kao rješenje zadatka predaju se samo implementirane funkcije koje ne smiju sadržavati naredbe za ispis
 na standardni izlaz ili unos sa standardnog ulaza. Funkcija `main` i zaglavlja se ne predaju.
 
-[Rješenje](8.c)
+[Rješenje zadatka](8.c)

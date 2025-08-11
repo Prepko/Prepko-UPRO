@@ -1,0 +1,20 @@
+70;ANIMATED FEATURE FILM;2021;17;A Shaun the Sheep Movie: Farmageddon
+47;VISUAL EFFECTS;2019;170;Christopher Robin
+16;SHORT FILM (Animated);2021;222;If Anything Happens I Love You
+70;ANIMATED FEATURE FILM;2020;239;Klaus
+90;MUSIC (Original Song);2019;255;Mary Poppins Returns
+28;PRODUCTION DESIGN;2019;255;Mary Poppins Returns
+59;COSTUME DESIGN;2019;255;Mary Poppins Returns
+25;MUSIC (Original Score);2019;255;Mary Poppins Returns
+70;ANIMATED FEATURE FILM;2019;259;Mirai
+70;ANIMATED FEATURE FILM;2021;279;Over the Moon
+70;ANIMATED FEATURE FILM;2019;311;Spider-Man: Into the Spider-Verse
+47;VISUAL EFFECTS;2019;412;Avengers: Infinity War
+57;SOUND EDITING;2019;425;Black Panther
+90;MUSIC (Original Song);2019;425;Black Panther
+17;BEST PICTURE;2019;425;Black Panther
+25;MUSIC (Original Score);2019;425;Black Panther
+41;SOUND MIXING;2019;425;Black Panther
+28;PRODUCTION DESIGN;2019;425;Black Panther
+59;COSTUME DESIGN;2019;425;Black Panther
+90;MUSIC (Original Song);2021;475;Eurovision Song Contest: The Story of Fire Saga

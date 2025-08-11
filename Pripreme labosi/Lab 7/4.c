@@ -15,4 +15,3 @@ bool capitalizeName(struct person_s *person) {
     }
     return true;
 }
-

@@ -33,7 +33,7 @@ Napomena: potrebno je napisati samo traženu funkciju. `main()` funkciju nije po
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](1.c)
+[Rješenje zadatka](1.c)
 
 ## 2. Zadatak
 
@@ -75,7 +75,7 @@ Napomena: potrebno je napisati samo traženu funkciju. `main()` funkciju nije po
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](2.c)
+[Rješenje zadatka](2.c)
 
 ## 3. Zadatak
 
@@ -112,7 +112,7 @@ Unesite·niz·znakova·>·OvoJeUlazniNizS15Slova↵
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](3.c)
+[Rješenje zadatka](3.c)
 
 ## 4. Zadatak
 
@@ -137,7 +137,7 @@ je vrijednost 14, a `rez2` treba pokazivati na objekt čija je vrijednost 36.
 Primjer 2: Za `a` = 2, `b` = 4, `c` = 1, `n` = 3 u trenutku izlaska iz funkcije, `rez1` treba pokazivati na objekt čija
 je vrijednost 73, a `rez2` treba pokazivati na objekt čija je vrijednost 343.
 
-[Rješenje](4.c)
+[Rješenje zadatka](4.c)
 
 ## 5. Zadatak
 
@@ -189,7 +189,7 @@ Unesite·koordinate·za·tocku·2·>·2·9↵
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](5.c)
+[Rješenje zadatka](5.c)
 
 ## 6. Zadatak
 
@@ -224,7 +224,7 @@ Najmanji·element·1·s·2·ponavljanja.
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](6.c)
+[Rješenje zadatka](6.c)
 
 ## 7. Zadatak
 
@@ -267,7 +267,7 @@ Broj·podudaranja:·2
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](7.c)
+[Rješenje zadatka](7.c)
 
 ## 8. Zadatak
 
@@ -312,7 +312,7 @@ Rezultanta·sila·iznosi:·30.00·N↵
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](8.c)
+[Rješenje zadatka](8.c)
 
 ## 9. Zadatak
 
@@ -365,7 +365,7 @@ Filtrirani·niz:·5.00·7.50·12.50·17.50·22.50↵
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](9.c)
+[Rješenje zadatka](9.c)
 
 ## 10. Zadatak
 
@@ -394,7 +394,7 @@ Funkcija·ima·maksimum·u·(0.00,·0.00)↵
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](10.c)
+[Rješenje zadatka](10.c)
 
 ## 11. Zadatak
 
@@ -436,4 +436,4 @@ Nema·dovoljno·brojeva!↵
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](11.c)
+[Rješenje zadatka](11.c)

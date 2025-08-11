@@ -37,7 +37,7 @@ Novodobiveno·polje↵
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](1.c)
+[Rješenje zadatka](1.c)
 
 ## 2. Zadatak
 
@@ -64,7 +64,7 @@ Izracunato·polje:·30·26·25·16·8
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](2.c)
+[Rješenje zadatka](2.c)
 
 ## 3. Zadatak
 
@@ -97,7 +97,7 @@ Razlika·zbrojeva·je·24.↵
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](3.c)
+[Rješenje zadatka](3.c)
 
 ## 4. Zadatak
 
@@ -132,4 +132,4 @@ Izracunato·polje:·↵
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](4.c)
+[Rješenje zadatka](4.c)

@@ -8,8 +8,8 @@ int main() {
     int count[128] = {0}, max = 0;
     for (int i = 0; s[i]; i++)
         if (s[i] != '\n') {
-            count[(int)s[i]]++;
-            if (count[(int)s[i]] > max) max = count[(int)s[i]];
+            count[(int) s[i]]++;
+            if (count[(int) s[i]] > max) max = count[(int) s[i]];
         }
 
     int broj = 0;

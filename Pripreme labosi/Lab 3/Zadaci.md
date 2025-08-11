@@ -62,7 +62,7 @@ Najveca·suma·kontinuiranog·pod-polja·je:·100
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](1.c)
+[Rješenje zadatka](1.c)
 
 ## 2. Zadatak
 
@@ -108,7 +108,7 @@ Suma·brojeva·koji·se·nalaze·u·retku·3·i·stupcu·2·je·10.
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](2.c)
+[Rješenje zadatka](2.c)
 
 ## 3. Zadatak
 
@@ -152,7 +152,7 @@ Rezultat·>·-1·1·-1·6·-5↵
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](3.c)
+[Rješenje zadatka](3.c)
 
 ## 4. Zadatak
 
@@ -197,7 +197,7 @@ Dodatno objašnjenje primjera:
 
 ![img.png](4.png)
 
-[Rješenje](4.c)
+[Rješenje zadatka](4.c)
 
 ## 5. Zadatak
 
@@ -242,7 +242,7 @@ Dodatno objašnjenje primjera : Počinje se na plavom krugu, a završava na crve
 
 ![img.png](5.png)
 
-[Rješenje](5.c)
+[Rješenje zadatka](5.c)
 
 ## 6. Zadatak
 
@@ -287,7 +287,7 @@ Dodatno objašnjenje primjera : Počinje se na plavom krugu, a završava na crve
 
 ![img.png](6.png)
 
-[Rješenje](6.c)
+[Rješenje zadatka](6.c)
 
 ## 7. Zadatak
 
@@ -316,7 +316,7 @@ Izlazni·znakovni·niz·je·:·Namladimasvijetostaje↵
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](7.c)
+[Rješenje zadatka](7.c)
 
 ## 8. Zadatak
 
@@ -339,7 +339,7 @@ Obrnuti·niz:·99RJEMIRP·INTSET·EJ·OVO↵
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](8.c)
+[Rješenje zadatka](8.c)
 
 ## 9. Zadatak
 
@@ -382,5 +382,5 @@ Znak·"a"·se·ponavlja·7·puta.↵
 Napomena: Znak `↵` ukazuje da na tom mjestu treba "ispisati skok u novi red" ili pritisnuti tipku Enter (odnosno
 Return), a znak `·` da na tom mjestu treba ispisati prazninu (space).
 
-[Rješenje](9.c)
+[Rješenje zadatka](9.c)
 
