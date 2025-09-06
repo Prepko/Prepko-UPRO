@@ -1,0 +1,10 @@
+stvar1	1
+stvar2	2
+stvar3	3
+stvar4	4
+stvar5	5
+stvar6	6
+stvar7	7
+stvar8	8
+stvar9	9
+stvar10	10
