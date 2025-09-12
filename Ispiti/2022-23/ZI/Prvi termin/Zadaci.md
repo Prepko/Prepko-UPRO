@@ -202,7 +202,7 @@ Napomena: ne treba predati glavni program, niti naredbe `#include`, potrebno je 
 obvezno
 zatvoriti datoteke, jer inače načinjene promjene neće biti spremljene ni vidljive programu koji ispituje funkciju.
 
-Tekstnu datoteke koje se koriste u zadatku možete pronaći pod [primjer.txt](primjer.txt)
+Tekstnu datoteke koja se koristi u zadatku možete pronaći pod [primjer.txt](primjer.txt)
 
 [Rješenje zadatka](4.c)
 
