@@ -286,20 +286,22 @@ potrebne dopune na mjestima koja su označena komentarima. U Edgar kao rješenje
 funkciju).
 
 Program kojeg treba dopuniti i predati kao rješenje
+
+```c++
 #include <stdio.h>
 /* POCETAK DEFINICIJE */
 // ovdje napisati definiciju funkcije podaciZaKatProizv i potrebne include naredbe
 /* KRAJ DEFINICIJE */
 
 int main(void){
-char imeDat[128+1];
-char nazKat[20+1];
-printf("Naziv datoteke: ");
-scanf("%s%*c", imeDat);
-printf("Kategorija proizvoda: ");
-scanf("%[^\n]", nazKat);
-int brojProizv;
-float najNizaC, najVisaC;
+    char imeDat[128+1];
+    char nazKat[20+1];
+    printf("Naziv datoteke: ");
+    scanf("%s%*c", imeDat);
+    printf("Kategorija proizvoda: ");
+    scanf("%[^\n]", nazKat);
+    int brojProizv;
+    float najNizaC, najVisaC;
 
     /* OVDJE napisati definiciju varijable u koju
       ce se pohraniti rezultat kojeg funkcija vraća preko imena i potom pozvati funkciju podaciZaKatProizv*/    
@@ -315,6 +317,7 @@ float najNizaC, najVisaC;
     return 0;
 
 }
+```
 
 Tekstnu datoteku koja se koristi u zadatku možete pronaći pod [Proizvodi.txt](Proizvodi.txt).
 
